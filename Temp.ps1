@@ -1,0 +1,1 @@
+.\DG-ALZ\infra-as-code\bicep\modules\logging\logging.bicep
